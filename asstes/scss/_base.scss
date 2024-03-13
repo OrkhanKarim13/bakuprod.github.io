@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: "Work Sans", sans-serif;
+  }
+  // reset codes
+
+
+  .container{
+    margin: 0 56px;
+  }
+
+  @media(max-width:480px){
+    .container{
+      margin: 0 20px;
+    }
+  }
